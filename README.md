@@ -11,7 +11,9 @@
   * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## AWS general
-
+  * https://aws.amazon.com/faqs/
+  * https://aws.amazon.com/whitepapers/
+  
 ## AWS Alexa
   * https://developer.amazon.com/designing-for-voice/
   * https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/handling-requests-sent-by-alexa
