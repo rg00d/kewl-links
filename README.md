@@ -1,10 +1,10 @@
 # kewl-links
 
 # Table of Contents
-[Markdown](#markdown)
-[AWS general](#aws-general)
-[AWS Alexa](#aws-alexa)
-[Terraform](#terraform)
+1. [Markdown](#markdown)
+2. [AWS general](#aws-general)
+3. [AWS Alexa](#aws-alexa)
+4. [Terraform](#terraform)
 
 
 ## Markdown
