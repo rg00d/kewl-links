@@ -1,11 +1,13 @@
 # kewl-links
 
 # Table of Contents
-1. [Markdown](#markdown)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
+[Markdown](#markdown)
+[AWS general](#aws-general)
+[AWS Alexa](#aws-alexa)
+[Terraform](#terraform)
 
-## Markdown <a name="markdown"></a>
+
+## Markdown
   * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## AWS general
