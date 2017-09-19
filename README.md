@@ -25,3 +25,4 @@
   * https://kubernetes.io/docs/getting-started-guides/aws/
   * https://github.com/kelseyhightower/kubernetes-the-hard-way
   * https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+  * https://classroom.udacity.com/courses/ud615
