@@ -17,6 +17,7 @@
 ## AWS Alexa
   * https://developer.amazon.com/designing-for-voice/
   * https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/handling-requests-sent-by-alexa
+  * https://acloud.guru/
 
 ## Terraform
   * https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca
