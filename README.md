@@ -20,3 +20,7 @@
 
 ## Terraform
   * https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca
+  
+## Kubernetes
+  * https://kubernetes.io/docs/getting-started-guides/aws/
+  * https://github.com/kelseyhightower/kubernetes-the-hard-way
