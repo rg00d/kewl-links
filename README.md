@@ -5,6 +5,7 @@
 2. [AWS general](#aws-general)
 3. [AWS Alexa](#aws-alexa)
 4. [Terraform](#terraform)
+5. [Git](#git)
 
 
 ## Markdown
@@ -27,3 +28,6 @@
   * https://github.com/kelseyhightower/kubernetes-the-hard-way
   * https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
   * https://classroom.udacity.com/courses/ud615
+
+## Git
+  * https://osworld.pl/dobre-praktyki-w-gitcie-czyli-zbior-zasad-w-pracy-zespolowej-przydatnych-trickow-najczesciej-wykorzystywanych-komend/
