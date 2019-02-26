@@ -33,6 +33,7 @@
   * https://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services
   * https://medium.com/@jain.sm/flannel-vs-calico-a-battle-of-l2-vs-l3-based-networking-5a30cd0a3ebd
   * http://www.abeji.de/weave-vs-calico/
+  * https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 ## Git
   * https://osworld.pl/dobre-praktyki-w-gitcie-czyli-zbior-zasad-w-pracy-zespolowej-przydatnych-trickow-najczesciej-wykorzystywanych-komend/
