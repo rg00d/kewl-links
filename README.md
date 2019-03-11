@@ -35,6 +35,7 @@
   * http://www.abeji.de/weave-vs-calico/
   * https://github.com/kelseyhightower/kubernetes-the-hard-way
   * https://speakerdeck.com/thockin/illustrated-guide-to-kubernetes-networking
+  * https://neuvector.com/container-security/kubernetes-security-guide/
 
 ## Git
   * https://osworld.pl/dobre-praktyki-w-gitcie-czyli-zbior-zasad-w-pracy-zespolowej-przydatnych-trickow-najczesciej-wykorzystywanych-komend/
