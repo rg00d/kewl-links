@@ -39,6 +39,9 @@
   * https://neuvector.com/network-security/kubernetes-networking/
   * https://www.digitalocean.com/community/tutorials/kubernetes-networking-under-the-hood
   * https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-init/#using-internal-ips-in-your-cluster
+  * https://github.com/kubernetes/kubernetes/blob/master/pkg/proxy/ipvs/README.md
+  * https://pytimer.github.io/2018/12/install-kubernetes-cluster-with-kubeadm/
+  * https://godoc.org/k8s.io/kubernetes/cmd/kubeadm/app/apis/kubeadm/v1beta1#hdr-Kubeadm_init_configuration_types
 
 ## Git
   * https://osworld.pl/dobre-praktyki-w-gitcie-czyli-zbior-zasad-w-pracy-zespolowej-przydatnych-trickow-najczesciej-wykorzystywanych-komend/
