@@ -36,6 +36,9 @@
   * https://github.com/kelseyhightower/kubernetes-the-hard-way
   * https://speakerdeck.com/thockin/illustrated-guide-to-kubernetes-networking
   * https://neuvector.com/container-security/kubernetes-security-guide/
+  * https://neuvector.com/network-security/kubernetes-networking/
+  * https://www.digitalocean.com/community/tutorials/kubernetes-networking-under-the-hood
+  * https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-init/#using-internal-ips-in-your-cluster
 
 ## Git
   * https://osworld.pl/dobre-praktyki-w-gitcie-czyli-zbior-zasad-w-pracy-zespolowej-przydatnych-trickow-najczesciej-wykorzystywanych-komend/
