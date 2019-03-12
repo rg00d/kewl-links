@@ -42,6 +42,7 @@
   * https://github.com/kubernetes/kubernetes/blob/master/pkg/proxy/ipvs/README.md
   * https://pytimer.github.io/2018/12/install-kubernetes-cluster-with-kubeadm/
   * https://godoc.org/k8s.io/kubernetes/cmd/kubeadm/app/apis/kubeadm/v1beta1#hdr-Kubeadm_init_configuration_types
+  * https://thenewstack.io/hackers-guide-kubernetes-networking/
 
 ## Git
   * https://osworld.pl/dobre-praktyki-w-gitcie-czyli-zbior-zasad-w-pracy-zespolowej-przydatnych-trickow-najczesciej-wykorzystywanych-komend/
